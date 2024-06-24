@@ -1,7 +1,7 @@
 # CIA_JAVA_PROJECT
 "This project utilizes deep file system manipulation techniques and integrates cutting-edge cryptographic algorithms to ensure data protection and to provide a robust and secure infrastructure."
 # Notes
-1. Ensure to replace file paths in the code to match your local directory structure.
+1. Place the database folder in your computer and accordimgly ensure to replace file paths in the code to match your local directory structure.
 2. The Main.java file is the entry point for the CLI program.
 3. The GUI.java file is the entry point for the GUI program.
 

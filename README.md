@@ -21,23 +21,26 @@ Clone the repository:
 git clone https://github.com/yourusername/cia_project.git
 
 Navigate to the project directory:
+
 cd cia_project
 
 Compile the Java files:
+
 javac Main.java
 
 **Usage**
 
-_CLI Program_
+**_CLI Program_**
+
 Run the program:
-java Main
+ java Main
 
 Follow the menu options.
 
-_GUI Program_
+**_GUI Program_**
 
 Run the GUI program (replace paths in the code as needed):
-java GUI
+ java GUI
 
 Follow the menu options
 

@@ -5,7 +5,7 @@
 2. The Main.java file is the entry point for the CLI program.
 3. The GUI.java file is the entry point for the GUI program.
 
-#COMSATS Intelligence Agency (CIA)
+# COMSATS Intelligence Agency (CIA)
 **Project Overview**
 A simulation of a fictional intelligence agency with CLI and GUI programs for managing agent profiles, missions, and encrypted databases.
 
